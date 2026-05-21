@@ -1,8 +1,1 @@
 TesteTestee
-!lorem 
-!lorem
-lorem
-!lorem!lorem
-!Lorem
-#Lorem
-#Lorem
