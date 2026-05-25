@@ -1,1 +1,2 @@
 Adicionando o aquivo rebase.txt
+Nova linha no arquivo rebase.txt
