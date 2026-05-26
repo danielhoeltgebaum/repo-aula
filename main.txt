@@ -3,3 +3,28 @@ Nova Linha repo remoto
 Alterado novo main
 Nova linha arquivo main
 Nova linha local fetch
+No ramo main
+O seu branch e 'origin/main' divergiram-se,
+e cada um tem 2 e 1 submissões, respectivamente.
+
+nothing to commit, working tree clean
+No ramo main
+O seu branch e 'origin/main' divergiram-se,
+e cada um tem 2 e 1 submissões, respectivamente.
+
+Changes not staged for commit:
+  (utilize "git add <arquivo>..." para atualizar o que será submetido)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   main.txt
+
+nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
+No ramo main
+O seu branch e 'origin/main' divergiram-se,
+e cada um tem 2 e 1 submissões, respectivamente.
+
+Changes not staged for commit:
+  (utilize "git add <arquivo>..." para atualizar o que será submetido)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   main.txt
+
+nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
