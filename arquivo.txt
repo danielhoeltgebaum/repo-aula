@@ -1,1 +1,4 @@
 teste
+
+Nova linha TXT
+Alteração nova
