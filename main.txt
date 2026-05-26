@@ -28,3 +28,8 @@ Changes not staged for commit:
 	modified:   main.txt
 
 nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
+No ramo main
+O seu branch e 'origin/main' divergiram-se,
+e cada um tem 3 e 1 submissões, respectivamente.
+
+nothing to commit, working tree clean
