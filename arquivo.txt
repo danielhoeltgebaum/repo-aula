@@ -2,3 +2,4 @@ teste
 
 Nova linha TXT
 Alteração nova
+Teste computador bancada
